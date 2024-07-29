@@ -1,2 +1,2 @@
 # basic_framework
-basic framework with Hybrid Framework followed by POM and Pytest
+A basic framework for web automation using Hybrid Framework followed by POM, Pytest and DDF
